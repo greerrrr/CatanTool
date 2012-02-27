@@ -1,0 +1,9 @@
+This is a software tool to aid in the playing of catan a la http://en.wikipedia.org/wiki/Advanced_Chess
+
+Current features:
+* Income management
+
+Future features:
+* Expected yield
+* Required turns
+* Crude opponent modeling in terms of temporary goals i.e. "Mike is trying to build roads"

@@ -1,0 +1,27 @@
+Define board
+P1-4 Roll
+Reorder
+P1-4:
+  Settlement
+  First Road
+P4-1:
+  Settlement
+  Road
+  Initial resources
+
+While all players have < 10 points:
+(At any point development card)
+  Roll
+    if = 7
+      newRobberPosition
+      steal
+    else
+      all get resources
+  Trades
+  Builds
+
+Soldier*14
+Victory Point*5
+Monopoly*2
+Year of Plenty*2
+Road Building*2
